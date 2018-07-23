@@ -1,0 +1,2 @@
+/home/ubuntu/Desktop/Testes/GTK/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/Testes/GTK/CMakeFiles/edit_cache.dir
